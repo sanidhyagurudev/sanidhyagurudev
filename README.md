@@ -12,7 +12,7 @@
 
 [<img align = "left" alt="Javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">]
 
-[<img align = "center" alt = "Python" width = "22px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">]
+[<img align = "left" alt = "Python" width = "22px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">]
 
 [<img align = "left" alt = "HTML5" width = "22px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">]
 
@@ -25,6 +25,9 @@
 [<img align ="left" alt = "Node.js" width = "22px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">]
 
 [<img align = "left" alt = "Kotlin" width="22px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">]
+
+[<img align = "left" alt = "Android Studio" width="22px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">]
+
 
 [<img align = "left" alt = "Visual Studio Code" width="22px" src = "https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png">]
 
